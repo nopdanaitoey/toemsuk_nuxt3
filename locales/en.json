@@ -1,0 +1,20 @@
+{
+    "locales": "En",
+    "logo": "Toemsuk",
+    "index":{
+        "homeBtn":"go to home",
+        "headContent":"Have you filled today?",
+        "coffee":"Coffee",
+        "arabica" :"Arabica",
+        "by": "by",
+        "pangcon": "Doi Pangkon, Chiang Rai Province",
+        "productName":{
+            "mocha":"Mocha",
+            "latte":"Latte"
+        },
+        "desc":"There's nothing quite like the aroma of freshly brewed coffee to kickstart your morning. A steaming cup of high-quality coffee has the power to transform your day, offering you the perfect blend of flavor, warmth, and energy.",
+        "prev":"<",
+        "next":">"
+        
+    }
+  }
